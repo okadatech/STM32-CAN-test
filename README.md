@@ -1,4 +1,4 @@
-# STM32-CAN-test
+# STM32 CAN test
 
 STM32CubeHALでCAN通信をしたときのテストプログラムです。
 F446RET6とF303K8T6のそれぞれのプロジェクトファイルごと入れてあります。
