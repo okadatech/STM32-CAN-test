@@ -1,0 +1,2 @@
+microsectimer.c:11:10:getUs	24	static
+microsectimer.c:21:6:delayUs	24	static,ignoring_inline_asm
